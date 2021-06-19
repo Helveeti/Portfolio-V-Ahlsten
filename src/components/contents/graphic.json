@@ -1,0 +1,49 @@
+{
+  "graphic": [
+    {
+      "id": 1,
+      "title": "Streaming graphics",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "picture": "planssit.PNG",
+      "secPicture": "planssit_2.PNG",
+      "alt": "Examples of the graphics that has been done.",
+      "year": "2018"
+    },
+    {
+      "id": 2,
+      "title": "Visual comparison of different streaming suitcases",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "picture": "laukkusuhde.png",
+      "secPicture": "laukkusuhde_2.png",
+      "alt": "Two A4 pictures including the cases and the capacities.",
+      "year": "2018"
+    },
+    {
+      "id": 3,
+      "title": "Stap RY - photo editing",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "picture": "yhdistettavat_oaj.PNG",
+      "secPicture": "yhdistetty_oaj.PNG",
+      "alt": "Placeholder",
+      "year": "2018"
+    },
+    {
+      "id": 4,
+      "title": "Mediastadi goes TFF -logo",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "picture": "tff_logo_ehdotelma-1.jpg",
+      "secPicture": "tff_lopulliset_logot.PNG",
+      "alt": "Placeholder",
+      "year": "2018"
+    },
+    {
+      "id": 5,
+      "title": "TYKKI-project digital tree",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "picture": "tree_ehdotukset.PNG",
+      "secPicture": "tykkipuu.png",
+      "alt": "Placeholder",
+      "year": "2018"
+    }
+  ]
+}

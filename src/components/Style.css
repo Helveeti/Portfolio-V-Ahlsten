@@ -1,0 +1,121 @@
+ul {
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    float: left;
+    padding-right: 5px;
+}
+
+.vl {
+    float: left;
+    border-right: 6px solid deepskyblue;
+    height: 400px;
+    width: 10%;
+
+    /*background-color: blue;*/
+}
+
+.title{
+    width: 100%;
+    padding-left: 40%;
+}
+
+/* ------------------------------------------- */
+
+* {
+    /*background-color: #141B51;*/
+}
+
+.body{
+    /*color: #007BFF;*/
+}
+
+.container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    /*background-color: #141B51;*/
+}
+
+.navbar{
+    background-color: #007BFF;
+    width: 100%;
+    display: block;
+}
+
+.infoBox{
+    width: 100%;
+    height: 10%;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.infoRight{
+    /*border-color: #282c34;
+    border-style: double;*/
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    align-content: center;
+}
+
+.infoLeft{
+    /*border-color: #282c34;
+    border-style: double;*/
+    float: right;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.linkButtons{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#drop-down-basic-button{
+    width: 100%;
+}
+
+#dropdown-items{
+    width: 100%;
+}
+
+.footer{
+    opacity: 50%;
+    text-align: center;
+    font-size: 10px;
+}
+
+.TextDropdowns{
+    margin-top: 10px;
+}
+
+.video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.video-responsive .FacebookPlayer {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}

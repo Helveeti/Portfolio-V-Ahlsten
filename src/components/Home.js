@@ -4,7 +4,8 @@ const Home = () => {
     return(
         <div className="container">
             <div>
-                <p>Koti</p>
+                <h1>Welcome!</h1>
+                <p>{'This page will contain information about me.'}</p>
             </div>
         </div>
     )

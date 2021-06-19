@@ -1,0 +1,68 @@
+{
+  "unigrafia": [
+    {
+      "id": 1,
+      "title": "Helsingin yliopiston lukukauden avajaiset",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "link": "https://www2.helsinki.fi/fi/unitube/video/20933",
+      "year": "2018"
+    },
+    {
+      "id": 2,
+      "title": "Helsingin yliopiston rehtori ehdokkaiden kuulemistilaisuus",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "link": "https://www2.helsinki.fi/fi/unitube/video/20831",
+      "year": "2018"
+    },
+    {
+      "id": 3,
+      "title": "Helsingin yliopiston IT Lectures",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "link": "https://www2.helsinki.fi/fi/unitube/video/20915",
+      "year": "2018"
+    }
+  ],
+  "stadinao": [
+    {
+      "id": 1,
+      "title": "Yhdenvertaisuus paneeli",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "embedId": "Lj7BSqptC6c",
+      "year": "2018"
+    }
+  ],
+  "kuvajakamera": [
+    {
+      "id": 1,
+      "title": "Finnfoto-palkinnon julkistaminen ja Fotofinlanfia-finalistien esittely",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "embedId": "gBrS4YKIJAY",
+      "year": "2018"
+    },
+    {
+      "id": 2,
+      "title": "Kuva ja Kamera perjantai 2.3. Svalbard unplugged Rami Hanafi",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "embedId": "xYT0fZJhavk",
+      "year": "2018"
+    }
+  ],
+  "cosplaysm": [
+    {
+      "id": 1,
+      "title": "Cosplayn SM 2017",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "embedId": "S7HxpwX7fQA",
+      "year": "2017"
+    }
+  ],
+  "taitajat": [
+    {
+      "id": 1,
+      "title": "Taitaja 2017 kisastudio tiistai 16.5.",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "embedId": "DDZFKDWA_9Q",
+      "year": "2017"
+    }
+  ]
+}

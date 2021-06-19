@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/reactrouter.iml" filepath="$PROJECT_DIR$/.idea/reactrouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reactproject.iml" filepath="$PROJECT_DIR$/.idea/reactproject.iml" />
     </modules>
   </component>
 </project>

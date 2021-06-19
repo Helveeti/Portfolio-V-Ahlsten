@@ -6,8 +6,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e27c6b4-796c-49a4-90e5-a859aa281cf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Cexamples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Csharpexamples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GraphicDesign.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/JSexamples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Javaexamples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Programming.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Streaming.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Utilities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VideoNCut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/VideoProduction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/aloitelaatikko.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/amazeing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/c-ee.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/citykani_logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/citykani_title.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/laukkusuhde.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/laukkusuhde_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/library_api.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/never-ever_react.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/never-ever_vue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/old_portfolio.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/planssit.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/planssit_2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/programming_logos_c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/programming_logos_csharp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/programming_logos_java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/programming_logos_js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tff_logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tff_logo_ehdotelma-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tff_lopulliset_logot.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tree_ehdotukset.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tykkipuu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/wellLost.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/yhdistettavat_oaj.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/yhdistetty_oaj.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/reactrouter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/reactproject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Add.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +68,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="package.json" />
+        <option value="tsconfig.json" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -34,10 +85,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$USER_HOME$/php-7.3.2" />
     </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="1ggSRVqb6DMtQ2SzD305r3j5mf2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,15 +108,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testi2" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -64,8 +133,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\kamaj\nodejs\reactrouter\src\components" />
-      <recent name="C:\Users\kamaj\nodejs\reactrouter\src" />
+      <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\components\contents\pictures" />
+      <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\components" />
+      <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\components\contents" />
+      <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\public\pictures" />
+      <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\contents" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -100,6 +172,45 @@
       <workItem from="1598564828010" duration="1780000" />
       <workItem from="1598602014775" duration="2262000" />
       <workItem from="1599116090165" duration="4892000" />
+      <workItem from="1612271522793" duration="6657000" />
+      <workItem from="1612350870204" duration="10510000" />
+      <workItem from="1612438749340" duration="671000" />
+      <workItem from="1612458825917" duration="635000" />
+      <workItem from="1612870994408" duration="9281000" />
+      <workItem from="1612956105867" duration="83000" />
+      <workItem from="1613559935494" duration="100000" />
+      <workItem from="1613561558109" duration="3960000" />
+      <workItem from="1613644648718" duration="5098000" />
+      <workItem from="1613653403195" duration="10000" />
+      <workItem from="1614614399330" duration="2224000" />
+      <workItem from="1614673343263" duration="10450000" />
+      <workItem from="1614773532671" duration="13394000" />
+      <workItem from="1614793808406" duration="3928000" />
+      <workItem from="1614857723110" duration="6480000" />
+      <workItem from="1614965040869" duration="8463000" />
+      <workItem from="1615116288079" duration="12443000" />
+      <workItem from="1615189995837" duration="6718000" />
+      <workItem from="1615298197996" duration="7906000" />
+      <workItem from="1615373720741" duration="1290000" />
+      <workItem from="1621334900798" duration="27000" />
+      <workItem from="1621509158297" duration="1532000" />
+      <workItem from="1621589824898" duration="4556000" />
+      <workItem from="1621676418004" duration="21250000" />
+      <workItem from="1621785218337" duration="1795000" />
+      <workItem from="1622105285481" duration="15471000" />
+      <workItem from="1622193763260" duration="13666000" />
+      <workItem from="1622213039420" duration="1252000" />
+      <workItem from="1622471316988" duration="615000" />
+      <workItem from="1622472085565" duration="177000" />
+      <workItem from="1622481859971" duration="1481000" />
+      <workItem from="1622538618037" duration="1991000" />
+      <workItem from="1622634399207" duration="278000" />
+      <workItem from="1622713065112" duration="8221000" />
+      <workItem from="1623008256018" duration="2369000" />
+      <workItem from="1623149816291" duration="3486000" />
+      <workItem from="1623394931599" duration="5065000" />
+      <workItem from="1623786736344" duration="8620000" />
+      <workItem from="1624104327582" duration="2197000" />
     </task>
     <task id="LOCAL−00001" summary="a simple menu with React">
       <created>1599124007693</created>
@@ -153,19 +264,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a simple menu with React" />
     <option name="LAST_COMMIT_MESSAGE" value="a simple menu with React" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="321" y="85" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598564527111">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state x="321" y="85" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689@0.0.1280.689" timestamp="1598564527111" />
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1599124006992">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1599124006992" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1598565554130">
-      <screen x="0" y="0" width="1280" height="689" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1598565554130" />
   </component>
 </project>

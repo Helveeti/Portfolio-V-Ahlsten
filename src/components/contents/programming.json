@@ -1,0 +1,269 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "title": "Java",
+      "link": "/javaExamples",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "picture": "programming_logos_java.png",
+      "alt": "Symbol of Java"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript, HTML, CSS, PHP",
+      "link": "/javascriptExamples",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "picture": "programming_logos_js.png",
+      "alt": "Symbol of JavaScript and Node.js"
+    },
+    {
+      "id": 3,
+      "title": "C#",
+      "link": "/csharpExamples",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "picture": "programming_logos_csharp.png",
+      "alt": "Symbol of C sharp"
+    },
+    {
+      "id": 4,
+      "title": "C/C++",
+      "link": "/cExamples",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "picture": "programming_logos_c.png",
+      "alt": "Symbol of C"
+    }
+  ],
+  "js": [
+    {
+      "id": 1,
+      "title": "Portfolio",
+      "tech": "JavaScript, Node.js, React, CSS, JSON",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "/",
+      "link": null,
+      "picture": "150x150.png",
+      "alt": "Placeholder",
+      "year": "2021",
+      "team": 1
+    },
+    {
+      "id": 2,
+      "title": "Never have I ever - React Project",
+      "tech": "JavaScript, Node.js, React, SQL, CSS",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/Never-have-I-ever-webproject-React",
+      "link": null,
+      "picture": "never-ever_react.jpg",
+      "alt": "Pictures of project's different pages.",
+      "year": "2021",
+      "team": 1
+    },
+    {
+      "id": 3,
+      "title": "Never have I ever - Vue Project",
+      "tech": "JavaScript, Node.js, Vue.js, SQL",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/Never-have-I-ever---Web-project",
+      "link": null,
+      "picture": "never-ever_vue.jpg",
+      "alt": "Pictures of project's different pages.",
+      "year": "2020",
+      "team": 1
+    },
+    {
+      "id": 4,
+      "title": "Library API",
+      "tech": "JavaScript, API, HTML, CSS",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/Kirjasto-API",
+      "link": "https://users.metropolia.fi/~veerapah/kirjastotproject_ver4/index.html",
+      "picture": "library_api.PNG",
+      "alt": "View of the website.",
+      "year": "2019",
+      "team": 4
+    },
+    {
+      "id": 5,
+      "title": "Interactive digital tree - TYKKI-project of Helsinki city",
+      "tech": "JavaScript, HTML, CSS",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": null,
+      "link": "http://www.tyoelamayhteistyo.com/hedelmapuu/hedelmapuu.html",
+      "picture": "tykkipuu.png",
+      "alt": "TYKKI project's tree.",
+      "year": "2018",
+      "team": 1
+    },
+    {
+      "id": 6,
+      "title": "Mediastadi goes TFF",
+      "tech": "WordPress, CSS",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": null,
+      "link": "http://stadinao.eu/PROJEKTIT/TFF/",
+      "picture": "tff_logo.PNG",
+      "alt": "Mediastadi goes TFF logo.",
+      "year": "2018",
+      "team": 8
+    },
+    {
+      "id": 7,
+      "title": "Initiative box - Helsinki's Vocational College",
+      "tech": "PHP, HTML, CSS",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": null,
+      "link": "http://stadinao.eu/PROJEKTIT/Aloitelaatikko/kayttoehdot.php",
+      "picture": "aloitelaatikko.PNG",
+      "alt": "First view of Initiative box.",
+      "year": "2018",
+      "team": 1
+    },
+    {
+      "id": 8,
+      "title": "CityKani - participate form",
+      "tech": "PHP, HTML, CSS",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": null,
+      "link": "http://stadinao.eu/PROJEKTIT/CITYKANI/Ilmoittautuminen/etusivu.html",
+      "picture": "citykani_logo.PNG",
+      "alt": "Citykani event's logo.",
+      "year": "2017",
+      "team": 1
+    }
+  ,
+    {
+      "id": 9,
+      "title": "CityKani - voting form",
+      "tech": "PHP, HTML, CSS",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": null,
+      "link": "http://stadinao.eu/PROJEKTIT/CITYKANI/Ilmoittautuminen/aanestys.php",
+      "picture": "citykani_logo.PNG",
+      "alt": "Citykani event's logo.",
+      "year": "2017",
+      "team": 1
+    },
+    {
+      "id": 10,
+      "title": "CityKani",
+      "tech": "Wordpress, CSS",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": null,
+      "link": "http://citykani.fi/",
+      "picture": "citykani_title.PNG",
+      "alt": "Citykani's page's title and event information.",
+      "year": "2017",
+      "team": 10
+    },
+    {
+      "id": 11,
+      "title": "Old Portfolio",
+      "tech": "Wordpress, CSS",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": null,
+      "link": "http://stadinao.eu/RYHMAT/16D/Ahlsten/portfolio/",
+      "picture": "old_portfolio.PNG",
+      "alt": "Title logo from old Portfolio.",
+      "year": "2016",
+      "team": 1
+    }
+  ],
+  "java": [
+    {
+      "id": 1,
+      "title": "Basic Rock-Paper-Scissors",
+      "tech": "Java, Maven, JUnit5",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/Basic-Rock-Paper-Scissors",
+      "picture": "150x150.png",
+      "alt": "Placeholder.",
+      "year": "2021",
+      "team": 1
+    },
+    {
+      "id": 2,
+      "title": "Reservice",
+      "tech": "Java, JavaFX, Maven, JUnit5, Jenkins, SQL, Hibernate, Nektion",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/Reservice",
+      "picture": "150x150.png",
+      "alt": "Placeholder.",
+      "year": "2020",
+      "team": 4
+    },
+    {
+      "id": 3,
+      "title": "F1-remote controlled robot",
+      "tech": "Java, SceneBuilder, SQL",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/F1-kauko-ohjattava-robotti",
+      "picture": "150x150.png",
+      "alt": "Placeholder.",
+      "year": "2020",
+      "team": 4
+    },
+    {
+      "id": 4,
+      "title": "Mobile App - Antidarra",
+      "tech": "Java, Android",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/Mobile-App---Antidarra",
+      "picture": "150x150.png",
+      "alt": "Placeholder.",
+      "year": "2019",
+      "team": 4
+    }
+  ],
+  "cSharp": [
+    {
+      "id": 1,
+      "title": "Game Jam 2021 - WellLost",
+      "tech": "C#, Unity",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/GameJam2021-WellLost/tree/main/Scripts",
+      "videoLink": "https://youtu.be/5MaZqSm7-C4",
+      "link": "https://globalgamejam.org/2021/games/well-lost-5",
+      "picture": "wellLost.PNG",
+      "alt": "Picture of the game WellLost.",
+      "year": "2021",
+      "team": 5
+    },
+    {
+      "id": 2,
+      "title": "C-ee - Game Project",
+      "tech": "C#, Unity",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/-C-ee---Game-project/tree/main/Scripts",
+      "videoLink": "https://youtu.be/FxGwqrMLolk",
+      "link": null,
+      "picture": "c-ee.PNG",
+      "alt": "Picture of the gameplay of C-ee.",
+      "year": "2020 - 2021",
+      "team": 5
+    },
+    {
+      "id": 3,
+      "title": "AMAZEING - Game Project",
+      "tech": "C#, Unity",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/AMAZING",
+      "videoLink": "https://youtu.be/z_zZv2lVu-Y",
+      "link": null,
+      "picture": "amazeing.PNG",
+      "alt": "Picture of the gameplay of Amazeing.",
+      "year": "2019",
+      "team": 3
+    }
+  ],
+  "c": [
+    {
+      "id": 1,
+      "title": "Multiple C/C++ practises",
+      "tech": "C/C++",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gitLink": "https://github.com/Helveeti/IoT---Robotics/blob/master/main2.c",
+      "year": "2019",
+      "team": 3
+    }
+  ]
+}
