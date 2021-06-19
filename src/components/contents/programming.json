@@ -36,7 +36,7 @@
   "js": [
     {
       "id": 1,
-      "title": "Portfolio",
+      "title": "Portfolio project",
       "tech": "JavaScript, Node.js, React, CSS, JSON",
       "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
       "gitLink": "https://github.com/Helveeti/Portfolio-V-Ahlsten",
