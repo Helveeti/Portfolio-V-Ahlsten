@@ -6,56 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e27c6b4-796c-49a4-90e5-a859aa281cf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cexamples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Csharpexamples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GraphicDesign.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/JSexamples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Javaexamples.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Programming.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Streaming.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Utilities.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/VideoNCut.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/VideoProduction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/aloitelaatikko.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/amazeing.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/c-ee.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/citykani_logo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/citykani_title.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/laukkusuhde.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/laukkusuhde_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/library_api.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/never-ever_react.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/never-ever_vue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/old_portfolio.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/planssit.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/planssit_2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/programming_logos_c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/programming_logos_csharp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/programming_logos_java.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/programming_logos_js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tff_logo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tff_logo_ehdotelma-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tff_lopulliset_logot.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tree_ehdotukset.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/tykkipuu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/wellLost.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/yhdistettavat_oaj.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/yhdistetty_oaj.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/reactrouter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/reactproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Add.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/List.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +82,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -157,7 +111,7 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Veera\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -210,7 +164,7 @@
       <workItem from="1623149816291" duration="3486000" />
       <workItem from="1623394931599" duration="5065000" />
       <workItem from="1623786736344" duration="8620000" />
-      <workItem from="1624104327582" duration="2197000" />
+      <workItem from="1624104327582" duration="6033000" />
     </task>
     <task id="LOCAL−00001" summary="a simple menu with React">
       <created>1599124007693</created>
