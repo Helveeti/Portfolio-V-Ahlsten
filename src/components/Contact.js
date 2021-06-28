@@ -5,6 +5,7 @@ import ReCaptchaV2 from 'react-google-recaptcha';
 const Contact = () => {
     var utils = require('./Utilities');
     const recaptchaRef = React.createRef();
+    require('dotenv').config();
 
     const onSubmit = (e) => {
         e.preventDefault();
@@ -66,7 +67,7 @@ const Contact = () => {
     }
 
     function onChange(value){
-        console.log(value);
+        /*console.log(value);*/
     }
 
     function handleReset(){
