@@ -6,9 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e27c6b4-796c-49a4-90e5-a859aa281cf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/omakuva.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GraphicDesign.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GraphicDesign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contents/programming.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contents/programming.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +63,15 @@
     <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="1ggSRVqb6DMtQ2SzD305r3j5mf2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -81,16 +92,16 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\public" />
       <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\components\contents\pictures" />
       <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\components" />
       <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\components\contents" />
       <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\public\pictures" />
-      <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\contents" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -163,7 +174,8 @@
       <workItem from="1623149816291" duration="3486000" />
       <workItem from="1623394931599" duration="5065000" />
       <workItem from="1623786736344" duration="8620000" />
-      <workItem from="1624104327582" duration="8004000" />
+      <workItem from="1624104327582" duration="12846000" />
+      <workItem from="1624867583240" duration="10844000" />
     </task>
     <task id="LOCAL−00001" summary="a simple menu with React">
       <created>1599124007693</created>
@@ -229,6 +241,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="a simple menu with React" />
     <MESSAGE value="Update project to see." />
     <option name="LAST_COMMIT_MESSAGE" value="Update project to see." />

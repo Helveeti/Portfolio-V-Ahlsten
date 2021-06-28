@@ -25,6 +25,7 @@ const GraphicDesign = () => {
                                 </div>
                             </li>
                             <br/>
+                            <br/>
                         </ul>
                     )
                 }
@@ -46,6 +47,7 @@ const GraphicDesign = () => {
                                 </div>
                             </li>
                             <br/>
+                            <br/>
                         </ul>
                     )
                 }else{
@@ -65,6 +67,7 @@ const GraphicDesign = () => {
                                     <img src={utils.requirePic(item.secPicture)} alt={item.alt} style={{"max-width": "250px", "height": "auto"}}/>
                                 </div>
                             </li>
+                            <br/>
                             <br/>
                         </ul>
                     )
