@@ -6,21 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e27c6b4-796c-49a4-90e5-a859aa281cf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/process.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/me.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cexamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cexamples.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Csharpexamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Csharpexamples.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/JSexamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/JSexamples.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Javaexamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Javaexamples.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Streaming.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Streaming.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/VideoNCut.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoNCut.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contents/programming.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contents/programming.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contents/videocut.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contents/videocut.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +174,7 @@
       <workItem from="1633088590616" duration="3990000" />
       <workItem from="1633876249268" duration="7020000" />
       <workItem from="1633894292286" duration="30000" />
-      <workItem from="1633966179968" duration="3868000" />
+      <workItem from="1633966179968" duration="4407000" />
     </task>
     <task id="LOCAL−00001" summary="a simple menu with React">
       <created>1599124007693</created>
