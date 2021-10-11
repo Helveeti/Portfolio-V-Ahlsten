@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e27c6b4-796c-49a4-90e5-a859aa281cf1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/contents/programming.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contents/programming.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +175,8 @@
       <workItem from="1633088590616" duration="3990000" />
       <workItem from="1633876249268" duration="7020000" />
       <workItem from="1633894292286" duration="30000" />
-      <workItem from="1633966179968" duration="10262000" />
+      <workItem from="1633966179968" duration="15552000" />
+      <workItem from="1633989817071" duration="3340000" />
     </task>
     <task id="LOCAL−00001" summary="a simple menu with React">
       <created>1599124007693</created>
@@ -217,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624884575342</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Appearance updates, text updates.">
+      <created>1633981403978</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633981403978</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +276,7 @@
     <MESSAGE value="ReCaptchaV2 added to the Contact and other updates on Home." />
     <MESSAGE value=".env file created" />
     <MESSAGE value="Recaptcha updates." />
-    <option name="LAST_COMMIT_MESSAGE" value="Recaptcha updates." />
+    <MESSAGE value="Appearance updates, text updates." />
+    <option name="LAST_COMMIT_MESSAGE" value="Appearance updates, text updates." />
   </component>
 </project>

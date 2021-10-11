@@ -6,7 +6,7 @@ const Home = () => {
     return(
         <div className="container">
             <div className="info">
-                <p style={{"border": "5px solid red", "padding": "10px"}}><strong>Portfolio under developement.</strong><br/>
+                <p style={{"border": "5px solid #B60000", "padding": "10px", "background": "red"}}><strong>Portfolio under developement.</strong><br/>
                             •   Working on descriptions. Lorem ipsum still placeholder in couple pages.<br/>
                             •   Lacking pictures on couple projects.<br/>
                             •   Mobile and tablet view still under production.
