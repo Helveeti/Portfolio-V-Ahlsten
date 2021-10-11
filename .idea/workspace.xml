@@ -7,7 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4e27c6b4-796c-49a4-90e5-a859aa281cf1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contents/programming.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contents/programming.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +174,7 @@
       <workItem from="1633088590616" duration="3990000" />
       <workItem from="1633876249268" duration="7020000" />
       <workItem from="1633894292286" duration="30000" />
-      <workItem from="1633966179968" duration="4407000" />
+      <workItem from="1633966179968" duration="10262000" />
     </task>
     <task id="LOCAL−00001" summary="a simple menu with React">
       <created>1599124007693</created>
