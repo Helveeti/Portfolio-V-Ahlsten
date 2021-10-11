@@ -32,19 +32,30 @@ li {
 
 .body{
     /*color: #007BFF;*/
+    position: relative;
+    min-height: 100vh;
 }
 
 .container{
-    margin: auto;
+    margin: 10px auto 20px;
     width: 50%;
-    padding: 10px;
+    height: auto;
     /*background-color: #141B51;*/
+    /*border: dashed #007BFF;*/
+    padding: 10px 10px 2.5rem 10px;
 }
 
 .navbar{
     background-color: #007BFF;
     width: 100%;
     display: block;
+}
+
+.progTitle {
+    opacity: 80%;
+    color: #007BFF;
+    margin-bottom: 200px;
+    border-top: 10px solid;
 }
 
 .infoBox{
@@ -73,6 +84,11 @@ li {
     padding-bottom: 5px;
 }
 
+.infoBottom {
+    clear: left;
+    padding: 25px;
+}
+
 .linkButtons{
     width: 100%;
     margin-left: auto;
@@ -87,10 +103,22 @@ li {
     width: 100%;
 }
 
-.footer{
-    opacity: 50%;
+.footer p{
     text-align: center;
     font-size: 10px;
+}
+
+.footer {
+    padding-top: 10px;
+    background-color: #007BFF;
+    display: block;
+    margin-top:auto;
+    border-top: solid #0067d9;
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
 }
 
 .TextDropdowns{
@@ -118,4 +146,10 @@ li {
     height: 100%;
     width: 100%;
     position: absolute;
+}
+
+#dropdown-items {
+    border-style: hidden groove hidden groove;
+    border-color: #007BFF;
+    border-width: thick;
 }

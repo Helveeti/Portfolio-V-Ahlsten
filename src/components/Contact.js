@@ -19,8 +19,9 @@ const Contact = () => {
         const token = notEmpty(captcha);
 
         if(validForm(name, email, title, message, token)) {
-            /*sendEmail(e.target);*/
+            sendEmail(e.target);
             console.log("Mail submitted.")
+            document.getElementById("feedback").innerHTML = "Email sent.";
         }
 
     };
@@ -81,8 +82,11 @@ const Contact = () => {
 
     return(
         <div className="container">
+            <div className="infoBox">
+                <p><strong>Send a contact request from here:</strong></p>
+            </div>
+
             <form onSubmit={onSubmit}>
-                <br/>
                 <p><strong>Name:</strong><strong style={{"margin-left": "41%"}}>Email:</strong></p>
                 <input
                     type='text'
@@ -121,6 +125,8 @@ const Contact = () => {
                 <hr/>
                 <button type='submit' style={{"width": "30%"}}>Submit</button>
             </form>
+
+            <p id="feedback"> </p>
         </div>
     )
 }

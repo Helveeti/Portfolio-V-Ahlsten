@@ -38,8 +38,8 @@ const App = () => {
                                 <Dropdown.Toggle split variant="primary" id="dropdown-split-basic" />
 
                                 <Dropdown.Menu>
-                                    <Dropdown.Item a href="/javascriptExamples">JavaScript</Dropdown.Item>
                                     <Dropdown.Item a href="/javaExamples">Java</Dropdown.Item>
+                                    <Dropdown.Item a href="/javascriptExamples">JavaScript</Dropdown.Item>
                                     <Dropdown.Item a href="/csharpExamples">C#</Dropdown.Item>
                                     <Dropdown.Item a href="/cExamples">C/C++</Dropdown.Item>
                                 </Dropdown.Menu>
@@ -95,8 +95,9 @@ const App = () => {
                     </Switch>
                 </Router>
             </div>
-            <hr/>
-            <p className="footer">© Vertti Ahlstén 2021</p>
+            <div className="footer">
+                <p>© Vertti Ahlstén 2021</p>
+            </div>
         </div>
     )
 }

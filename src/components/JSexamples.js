@@ -9,6 +9,19 @@ const JSexamples = () => {
 
     return(
         <div className="container">
+            <Link to={"/programming"}><strong><h1>←</h1></strong></Link>
+
+            <div className="progTitle">
+                <div className="infoLeft" style={{width: "70%"}}>
+                    <strong>{jsInfo.info[1].title}</strong>
+                    <br/>
+                    {jsInfo.info[1].text}
+                </div>
+                <div className="infoRight" style={{width: "30%"}}>
+                    <img src={utils.requirePic(jsInfo.info[1].picture)} alt={jsInfo.info[1].alt}/>
+                </div>
+            </div>
+
             <br/>
             {jsInfo.js.map((item) => {
                 if(item.link === null){
@@ -17,8 +30,7 @@ const JSexamples = () => {
                             <DropdownButton id="drop-down-basic-button" title={item.title}>
                                 <Dropdown.ItemText id="dropdown-items"
                                                    style={{"font-weight": "bold"}}>{item.title}</Dropdown.ItemText>
-                                <Dropdown.ItemText id="dropdown-items"
-                                                   style={{"opacity": "0.5"}}>{item.year} | {item.tech}</Dropdown.ItemText>
+                                <Dropdown.ItemText id="dropdown-items"><div style={{"opacity": "0.5"}}>{item.year} | {item.tech}</div></Dropdown.ItemText>
                                 <Dropdown.ItemText id="dropdown-items">{item.text}<br/>Members on team: <strong>{item.team}</strong><br/>
                                     <img src={utils.requirePic(item.picture)}
                                          style={{"margin-left": "auto", "margin-right": "auto", "display": "block", "max-width": "100%", "height": "auto"}}/>
@@ -38,8 +50,7 @@ const JSexamples = () => {
                             <DropdownButton id="drop-down-basic-button" title={item.title}>
                                 <Dropdown.ItemText id="dropdown-items"
                                                    style={{"font-weight": "bold"}}>{item.title}</Dropdown.ItemText>
-                                <Dropdown.ItemText id="dropdown-items"
-                                                   style={{"opacity": "0.5"}}>{item.year} | {item.tech}</Dropdown.ItemText>
+                                <Dropdown.ItemText id="dropdown-items"><div style={{"opacity": "0.5"}}>{item.year} | {item.tech}</div></Dropdown.ItemText>
                                 <Dropdown.ItemText id="dropdown-items">{item.text}<br/>Members on team: <strong>{item.team}</strong><br/>
                                     <img src={utils.requirePic(item.picture)}
                                          style={{"margin-left": "auto", "margin-right": "auto", "display": "block", "max-width": "100%", "height": "auto"}}/>
@@ -58,9 +69,8 @@ const JSexamples = () => {
                         <div className="TextDropdowns">
                             <DropdownButton id="drop-down-basic-button" title={item.title}>
                                 <Dropdown.ItemText id="dropdown-items"
-                                                   style={{"font-weight": "bold"}}>{item.title}</Dropdown.ItemText>
-                                <Dropdown.ItemText id="dropdown-items"
-                                                   style={{"opacity": "0.5"}}>{item.year} | {item.tech}</Dropdown.ItemText>
+                                                   style={{"font-weight": "bold", "border-style": "groove groove hidden groove"}}>{item.title}</Dropdown.ItemText>
+                                <Dropdown.ItemText id="dropdown-items"><div style={{"opacity": "0.5"}}>{item.year} | {item.tech}</div></Dropdown.ItemText>
                                 <Dropdown.ItemText id="dropdown-items">{item.text}<br/>Members on team: <strong>{item.team}</strong><br/>
                                     <img src={utils.requirePic(item.picture)}
                                          style={{"margin-left": "auto", "margin-right": "auto", "display": "block", "max-width": "100%", "height": "auto"}}

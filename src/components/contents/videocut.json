@@ -1,4 +1,13 @@
 {
+  "KingsRoad": [
+    {
+      "id": 1,
+      "title": "King's Road: Tales from the North - Game demo trailer",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "link": "6lAyW3sGbP8",
+      "year": "2021"
+    }
+  ],
   "TFF": [
     {
       "id": 1,

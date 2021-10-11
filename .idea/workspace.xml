@@ -5,10 +5,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e27c6b4-796c-49a4-90e5-a859aa281cf1" name="Default Changelist" comment=".env file created">
+    <list default="true" id="4e27c6b4-796c-49a4-90e5-a859aa281cf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/process.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contents/pictures/me.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/process.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cexamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cexamples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Csharpexamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Csharpexamples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/JSexamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/JSexamples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Javaexamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Javaexamples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Streaming.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Streaming.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoNCut.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoNCut.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contents/programming.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contents/programming.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contents/videocut.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contents/videocut.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,8 +102,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\public" />
       <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\components\contents\pictures" />
+      <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\public" />
       <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\components" />
       <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\src\components\contents" />
       <recent name="C:\Users\Veera\WebstormProjects\react_porftolio\public\pictures" />
@@ -168,7 +180,14 @@
       <workItem from="1623394931599" duration="5065000" />
       <workItem from="1623786736344" duration="8620000" />
       <workItem from="1624104327582" duration="12846000" />
-      <workItem from="1624867583240" duration="14237000" />
+      <workItem from="1624867583240" duration="14508000" />
+      <workItem from="1624963848630" duration="10997000" />
+      <workItem from="1632216846562" duration="4934000" />
+      <workItem from="1632677708723" duration="6869000" />
+      <workItem from="1633088590616" duration="3990000" />
+      <workItem from="1633876249268" duration="7020000" />
+      <workItem from="1633894292286" duration="30000" />
+      <workItem from="1633966179968" duration="3868000" />
     </task>
     <task id="LOCAL−00001" summary="a simple menu with React">
       <created>1599124007693</created>
@@ -204,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624883394532</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Recaptcha updates.">
+      <created>1624884575342</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624884575342</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +279,7 @@
     <MESSAGE value="Update project to see." />
     <MESSAGE value="ReCaptchaV2 added to the Contact and other updates on Home." />
     <MESSAGE value=".env file created" />
-    <option name="LAST_COMMIT_MESSAGE" value=".env file created" />
+    <MESSAGE value="Recaptcha updates." />
+    <option name="LAST_COMMIT_MESSAGE" value="Recaptcha updates." />
   </component>
 </project>
